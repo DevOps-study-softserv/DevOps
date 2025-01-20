@@ -1,0 +1,4 @@
+# CODEOWNERS file
+# Assign online-marathon as code owner for YAML files in the dev branch
+*.yml @online-marathon
+*.yaml @online-marathon
